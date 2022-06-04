@@ -16,9 +16,12 @@
 
 /Realm Rush/Assets/AssetPacks/
 /Realm Rush/Assets/Environment/
-/Realm Rush/Assets/Bank/Bank.prefab
-/Realm Rush/Assets/Enemy/Ram.prefab
-/Realm Rush/Assets/Enemy/Ram.prefab
+/Realm Rush/Assets/Bank/Models/
+/Realm Rush/Assets/Enemy/Models/
+/Realm Rush/Assets/Environment/Tile_Land/
+/Realm Rush/Assets/Environment/Tile_Water/
+/Realm Rush/Assets/Environment/Trees/
+/Realm Rush/Assets/Tower/Models/
 /Realm Rush/[Ll]ibrary/
 /Realm Rush/[Tt]emp/
 /Realm Rush/[Oo]bj/
