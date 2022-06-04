@@ -2,13 +2,57 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+/Project Boost/[Aa]ssets/Materials
+/Project Boost/[Aa]ssets/Audio
+/Project Boost/[Aa]ssets/Particles
+/Project Boost/[Aa]ssets/Prefabs
+/Project Boost/[Ll]ibrary/
+/Project Boost/[Tt]emp/
+/Project Boost/[Oo]bj/
+/Project Boost/[Bb]uild/
+/Project Boost/[Bb]uilds/
+/Project Boost/[Ll]ogs/
+/Project Boost/[Mm]emoryCaptures/
+
+/Realm Rush/Assets/AssetPacks/
+/Realm Rush/Assets/Environment/
+/Realm Rush/Assets/Bank/Bank.prefab
+/Realm Rush/Assets/Enemy/Ram.prefab
+/Realm Rush/Assets/Enemy/Ram.prefab
+/Realm Rush/[Ll]ibrary/
+/Realm Rush/[Tt]emp/
+/Realm Rush/[Oo]bj/
+/Realm Rush/[Bb]uild/
+/Realm Rush/[Bb]uilds/
+/Realm Rush/[Ll]ogs/
+/Realm Rush/[Mm]emoryCaptures/
+
+/Argon Assault/[Aa]ssets/AssetPacks/
+/Argon Assault/[Aa]ssets/Material/
+/Argon Assault/[Aa]ssets/Music & VFX/
+/Argon Assault/[Aa]ssets/Particles/
+/Argon Assault/[Aa]ssets/Prefabs/
+/Argon Assault/[Aa]ssets/Slackbar/
+/Argon Assault/[Aa]ssets/TextMesh Pro/
+/Argon Assault/[Ll]ibrary/
+/Argon Assault/[Tt]emp/
+/Argon Assault/[Oo]bj/
+/Argon Assault/[Bb]uild/
+/Argon Assault/[Bb]uilds/
+/Argon Assault/[Ll]ogs/
+/Argon Assault/[Mm]emoryCaptures/
+
+/Zombie Runner/[Ll]ibrary/
+/Zombie Runner/[Tt]emp/
+/Zombie Runner/[Oo]bj/
+/Zombie Runner/[Bb]uild/
+/Zombie Runner/[Bb]uilds/
+/Zombie Runner/[Ll]ogs/
+/Zombie Runner/[Mm]emoryCaptures/
+/Zombie Runner/Assets/Asset Packs/
+/Zombie Runner/Assets/Material/
+/Zombie Runner/Assets/Prefabs/
+/Zombie Runner/Assets/Animations/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
