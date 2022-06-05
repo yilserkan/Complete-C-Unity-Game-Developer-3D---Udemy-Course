@@ -6,7 +6,7 @@ The player is playing as a starship and his main goal is to protect his world fr
 
 ## Key Takeaways
 
-- How to use terrains to create beatiful environments.
+- How to use terrains to create beautiful environments.
 - How to use timeline to create animation sequences.
 - How to use Particle Collision.
 
