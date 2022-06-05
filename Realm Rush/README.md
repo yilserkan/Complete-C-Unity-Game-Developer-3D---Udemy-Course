@@ -14,3 +14,5 @@ Breadth First Search:
 Key Takeaways:
 - How pathfinding can be implemented to games.
 - Object Pooling
+
+![1](https://user-images.githubusercontent.com/80252098/172042540-30a11ad9-5a7c-45e2-8c87-51f5cf43177e.png)
