@@ -14,6 +14,7 @@ This game is a strategy game. The enemy castle is producing enemy rams (with obj
 
 ## Key Takeaways:
 - How pathfinding can be implemented to games.
-- Object Pooling
+- How to use object pooling.
+- How to use dictionaries.
 
 ![1](https://user-images.githubusercontent.com/80252098/172042540-30a11ad9-5a7c-45e2-8c87-51f5cf43177e.png)
