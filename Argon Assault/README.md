@@ -2,7 +2,7 @@
 
 ## About the game:
 
-The starship is following a path which was created with the timeline. The player can move up, down, right, left adn shoot. The aim is to destroy as many enemy starships as possbile whilst avoding the obstacles.
+The player is playing as a starship and his main goal is to protect his world from the enemy starships. The starships are following a path which was created with the timeline. The player can move up, down, right, left and shoot. The aim is to destroy as many enemy starships as possbile whilst avoding the obstacles.
 
 ## Key Takeaways:
 
