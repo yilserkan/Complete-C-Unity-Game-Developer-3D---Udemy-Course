@@ -1,12 +1,15 @@
 # Project Boost
 If you want to play this game, checkout my itch account  : https://syildir.itch.io/project-boost 
 
+## About the Game:
+
 This was one of the first complete games i created.It has helped me to understand how Rigidbodies work, the Particle System works, what prefabs are and how to use them, basic components ( Transform, Mesh Renderer...) , etc.
+
+## Key Takeaways:
 
 In this game you have to make it to the finish point without touching the obstacles. It contains 4 level.
 
-
-
+## Game Screenshots:
 
 ![First Level](https://user-images.githubusercontent.com/80252098/172041003-de8b3801-9ff7-4b18-86d8-ce396a33cd07.png)
 
